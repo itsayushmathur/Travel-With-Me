@@ -15,28 +15,28 @@ const Gallery = () => {
       <h2 className="text-center text-gray-700 p-4">Gallery</h2>
       <div className="grid sm:grid-cols-4 gap-4">
         <div className="sm:col-span-2 col-span-2 row-span-2">
-          <img className="w-full h-full object-cover" src={Gallery1} alt="/" />
+          <img className=" drop-shadow-2xl w-full h-full object-cover" src={Gallery1} alt="/" />
         </div>
         <div>
-          <img className="w-full h-full object-cover" src={Gallery2} alt="/" />
+          <img className=" drop-shadow-2xl w-full h-full object-cover" src={Gallery2} alt="/" />
         </div>
         <div>
-          <img className="w-full h-full object-cover" src={Gallery3} alt="/" />
+          <img className=" drop-shadow-2xl w-full h-full object-cover" src={Gallery3} alt="/" />
         </div>
         <div>
-          <img className="w-full h-full object-cover" src={Gallery5} alt="/" />
+          <img className=" drop-shadow-2xl w-full h-full object-cover" src={Gallery5} alt="/" />
         </div>
         <div>
-          <img className="w-full h-full object-cover" src={Gallery6} alt="/" />
+          <img className=" drop-shadow-2xl w-full h-full object-cover" src={Gallery6} alt="/" />
         </div>
         <div>
-          <img className="w-full h-full object-cover" src={Gallery7} alt="/" />
+          <img className=" drop-shadow-2xl w-full h-full object-cover" src={Gallery7} alt="/" />
         </div>
         <div>
-          <img className="w-full h-full object-cover" src={Gallery9} alt="/" />
+          <img className=" drop-shadow-2xl w-full h-full object-cover" src={Gallery9} alt="/" />
         </div>
         <div className="sm:col-span-2">
-          <img className="w-full h-full object-cover" src={Gallery4} alt="/" />
+          <img className=" drop-shadow-2xl w-full h-full object-cover" src={Gallery4} alt="/" />
         </div>
       </div>
     </div>

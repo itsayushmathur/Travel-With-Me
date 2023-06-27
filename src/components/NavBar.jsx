@@ -9,7 +9,7 @@ const NavBar = () => {
     setNav(!nav);
   };
   return (
-    <div className="w-full min-h-[50px] flex justify-between items-center abosulte z-10 text-white bg-gray-700/80">
+    <div className="w-full min-h-[50px] flex justify-between items-center abosulte z-10 text-white bg-[#956317]">
       <ul className="hidden sm:flex px-4">
         <li>
           {/* eslint-disable-next-line  */}

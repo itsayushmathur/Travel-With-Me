@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.3ed3a9af.css",
-    "main.js": "/static/js/main.162f889b.js",
+    "main.css": "/static/css/main.9a2886f9.css",
+    "main.js": "/static/js/main.cd57e4b1.js",
+    "static/media/travelbg.jpg": "/static/media/travelbg.cf1ed6741e36498dacc3.jpg",
     "static/media/activity3.jpg": "/static/media/activity3.c79e28b09d4b43568674.jpg",
     "static/media/activity.jpg": "/static/media/activity.da0bdc6dcc3914be7326.jpg",
+    "static/media/contact.jpg": "/static/media/contact.e141b1541439d533eb65.jpg",
     "static/media/gallery1.jpg": "/static/media/gallery1.7e98ac8b0cb7a1fd6a2e.jpg",
     "static/media/activity2.jpg": "/static/media/activity2.9633c70256c368ea1ebc.jpg",
     "static/media/gallery3.jpg": "/static/media/gallery3.0374859d697e02cf5060.jpg",
-    "static/media/contact.jpg": "/static/media/contact.e97e368aa42caf770425.jpg",
     "static/media/gallery9.jpg": "/static/media/gallery9.8644075791b24d226154.jpg",
     "static/media/gallery4.jpg": "/static/media/gallery4.107cbeba0651ba4eb870.jpg",
     "static/media/gallery2.jpg": "/static/media/gallery2.ca210ccd1bfe8154917a.jpg",
     "static/media/gallery6.jpg": "/static/media/gallery6.2e35650e98fb9a85b7ff.jpg",
-    "static/media/travelbg.jpg": "/static/media/travelbg.b5e966dfa22cb8936172.jpg",
     "static/media/gallery7.jpg": "/static/media/gallery7.a707a0432c43a7f51ede.jpg",
     "static/media/gallery5.jpg": "/static/media/gallery5.3fda64a5e54099f6fd31.jpg",
     "index.html": "/index.html",
-    "main.3ed3a9af.css.map": "/static/css/main.3ed3a9af.css.map",
-    "main.162f889b.js.map": "/static/js/main.162f889b.js.map"
+    "main.9a2886f9.css.map": "/static/css/main.9a2886f9.css.map",
+    "main.cd57e4b1.js.map": "/static/js/main.cd57e4b1.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ed3a9af.css",
-    "static/js/main.162f889b.js"
+    "static/css/main.9a2886f9.css",
+    "static/js/main.cd57e4b1.js"
   ]
 }
