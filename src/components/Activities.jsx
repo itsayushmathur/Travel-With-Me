@@ -1,7 +1,7 @@
 import React from "react";
-import Resort1 from "../assets/resorts.jpg";
-import Resort2 from "../assets/resorts2.jpg";
-import Resort3 from "../assets/resorts3.jpg";
+import Resort1 from "../assets/activity.jpg";
+import Resort2 from "../assets/activity2.jpg";
+import Resort3 from "../assets/activity3.jpg";
 const Activities = () => {
   return (
     <div className="max-w-[1140px] m-auto w-full md:flex mt-[-75px]">
