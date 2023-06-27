@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.05df3fb6.css",
+    "main.js": "/static/js/main.9e742fdf.js",
+    "static/media/travelbg.jpg": "/static/media/travelbg.dbf7f95fbdf3af8540f5.jpg",
+    "static/media/resorts.jpg": "/static/media/resorts.da0bdc6dcc3914be7326.jpg",
+    "static/media/resorts2.jpg": "/static/media/resorts2.9633c70256c368ea1ebc.jpg",
+    "index.html": "/index.html",
+    "main.05df3fb6.css.map": "/static/css/main.05df3fb6.css.map",
+    "main.9e742fdf.js.map": "/static/js/main.9e742fdf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05df3fb6.css",
+    "static/js/main.9e742fdf.js"
+  ]
+}
