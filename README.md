@@ -74,5 +74,3 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 This project is licensed under the [MIT License](LICENSE).
 ```
-
-Feel free to modify and customize the README file according to your project's specific requirements and additional information.
